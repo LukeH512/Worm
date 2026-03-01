@@ -1,0 +1,1 @@
+room_goto(map_after_start)

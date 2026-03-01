@@ -1,0 +1,2 @@
+touch_count = 0;
+
