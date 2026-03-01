@@ -8,23 +8,21 @@
   "instanceCreationOrder":[
     {"name":"inst_4C1755F2","path":"rooms/lvl2_continue/lvl2_continue.yy",},
     {"name":"inst_2994DB65","path":"rooms/lvl2_continue/lvl2_continue.yy",},
-    {"name":"inst_6510565C","path":"rooms/lvl2_continue/lvl2_continue.yy",},
-    {"name":"inst_485BF2C2","path":"rooms/lvl2_continue/lvl2_continue.yy",},
+    {"name":"inst_6FC74C0A","path":"rooms/lvl2_continue/lvl2_continue.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_4C1755F2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4C1755F2","objectId":{"name":"o_lvl2","path":"objects/o_lvl2/o_lvl2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":10.75,"scaleY":12.0,"x":704.0,"y":224.0,},
         {"$GMRInstance":"v4","%Name":"inst_2994DB65","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2994DB65","objectId":{"name":"o_collect20","path":"objects/o_collect20/o_collect20.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":15.0,"scaleY":12.2,"x":64.0,"y":320.0,},
-        {"$GMRInstance":"v4","%Name":"inst_6510565C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6510565C","objectId":{"name":"o_continue_1","path":"objects/o_continue_1/o_continue_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.8,"scaleY":7.4,"x":1118.4,"y":672.0,},
-        {"$GMRInstance":"v4","%Name":"inst_485BF2C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_485BF2C2","objectId":{"name":"o_nahjust","path":"objects/o_nahjust/o_nahjust.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.8399997,"scaleY":2.92,"x":480.0,"y":576.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6FC74C0A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6FC74C0A","objectId":{"name":"o_next1_1","path":"objects/o_next1_1/o_next1_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":1.4240904,"scaleX":13.8,"scaleY":10.6,"x":1600.0,"y":1056.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"lvl2_continue",
   "parent":{
-    "name":"Hamburger.cheeseburger.bigbacked.waffle",
-    "path":"Hamburger.cheeseburger.bigbacked.waffle.yyp",
+    "name":"lvl2",
+    "path":"folders/lvl2.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -14,6 +14,6 @@ if touch_count >= 20
 {
     touch_count = 0 
     room_goto(lvl3)
-	visible = false
+
 }
 

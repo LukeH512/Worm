@@ -7,22 +7,20 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_1A7D5F58","path":"rooms/lvl1_continue/lvl1_continue.yy",},
-    {"name":"inst_9979D36","path":"rooms/lvl1_continue/lvl1_continue.yy",},
-    {"name":"inst_7CDEC334","path":"rooms/lvl1_continue/lvl1_continue.yy",},
+    {"name":"inst_54646E7A","path":"rooms/lvl1_continue/lvl1_continue.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_1A7D5F58","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1A7D5F58","objectId":{"name":"o_lvl1","path":"objects/o_lvl1/o_lvl1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":13.48,"scaleY":7.72,"x":32.0,"y":-32.0,},
-        {"$GMRInstance":"v4","%Name":"inst_9979D36","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9979D36","objectId":{"name":"o_continue","path":"objects/o_continue/o_continue.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.6,"scaleY":7.4,"x":1220.8,"y":704.0,},
-        {"$GMRInstance":"v4","%Name":"inst_7CDEC334","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7CDEC334","objectId":{"name":"o_nahjust","path":"objects/o_nahjust/o_nahjust.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.56,"scaleY":2.6,"x":736.0,"y":608.0,},
+        {"$GMRInstance":"v4","%Name":"inst_54646E7A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54646E7A","objectId":{"name":"o_next1","path":"objects/o_next1/o_next1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":11.666667,"scaleY":9.0,"x":1600.0,"y":1038.4,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"lvl1_continue",
   "parent":{
-    "name":"Hamburger.cheeseburger.bigbacked.waffle",
-    "path":"Hamburger.cheeseburger.bigbacked.waffle.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

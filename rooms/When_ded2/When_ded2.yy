@@ -21,8 +21,8 @@
   ],
   "name":"When_ded2",
   "parent":{
-    "name":"Hamburger.cheeseburger.bigbacked.waffle",
-    "path":"Hamburger.cheeseburger.bigbacked.waffle.yyp",
+    "name":"lvl2",
+    "path":"folders/lvl2.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

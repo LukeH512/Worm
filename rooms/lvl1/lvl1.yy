@@ -6,23 +6,25 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_40B05DF3","path":"rooms/lvl1/lvl1.yy",},
     {"name":"inst_2BF38127","path":"rooms/lvl1/lvl1.yy",},
     {"name":"inst_33301E37","path":"rooms/lvl1/lvl1.yy",},
+    {"name":"inst_77F8EF1E","path":"rooms/lvl1/lvl1.yy",},
+    {"name":"inst_5E8B232D","path":"rooms/lvl1/lvl1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_40B05DF3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_40B05DF3","objectId":{"name":"o_lvl1","path":"objects/o_lvl1/o_lvl1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":13.8,"scaleY":7.7200003,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_2BF38127","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2BF38127","objectId":{"name":"o_next1","path":"objects/o_next1/o_next1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.64,"scaleY":7.72,"x":1536.0,"y":992.0,},
-        {"$GMRInstance":"v4","%Name":"inst_33301E37","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33301E37","objectId":{"name":"o_click","path":"objects/o_click/o_click.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.52,"scaleY":3.56,"x":736.0,"y":544.0,},
+        {"$GMRInstance":"v4","%Name":"inst_33301E37","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_33301E37","objectId":{"name":"o_click","path":"objects/o_click/o_click.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.52,"scaleY":3.56,"x":768.0,"y":544.0,},
+        {"$GMRInstance":"v4","%Name":"inst_77F8EF1E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77F8EF1E","objectId":{"name":"o_good1","path":"objects/o_good1/o_good1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.75,"scaleY":8.0,"x":128.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_5E8B232D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5E8B232D","objectId":{"name":"o_collect50","path":"objects/o_collect50/o_collect50.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.75,"scaleY":5.0,"x":288.0,"y":352.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"lvl1",
   "parent":{
-    "name":"Hamburger.cheeseburger.bigbacked.waffle",
-    "path":"Hamburger.cheeseburger.bigbacked.waffle.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

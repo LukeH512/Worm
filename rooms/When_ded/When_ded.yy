@@ -21,8 +21,8 @@
   ],
   "name":"When_ded",
   "parent":{
-    "name":"Hamburger.cheeseburger.bigbacked.waffle",
-    "path":"Hamburger.cheeseburger.bigbacked.waffle.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
